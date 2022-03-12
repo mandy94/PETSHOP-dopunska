@@ -1,0 +1,14 @@
+{
+  "name": "petshop-dopunska",
+  "version": "1.0.0",
+  "description": "Primer projekata od nule za dopunski radi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IV2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
